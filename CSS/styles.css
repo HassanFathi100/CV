@@ -1,0 +1,11 @@
+body{
+  background-color: #e8eae6
+}
+hr{
+  border:none;
+  border-top:7px dotted #cdd0cb;
+  width:7%;
+}
+h1{color: #66BFBF}
+h3{color: #66BFBF;}
+h4:hover{background-color:red;}
